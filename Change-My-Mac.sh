@@ -1,6 +1,6 @@
 #!/bin/bash
 
-interface="wlp170s0"
+interface="INTERFACE NAME"
 echo "Pick an option"
 echo "r = Random, b = Built in"
 read choice
