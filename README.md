@@ -1,6 +1,6 @@
 # Change-My-Mac
 
-Have you ever wanted to change you MAC address. Will this script will help you out.
+Have you ever wanted to change your MAC address? Will this script will help you out.
 
 ## How to use
 
